@@ -7,11 +7,12 @@ Hola soy Julian, un software Developer en constante aprendizaje. Tengo un gran e
 
 ## Tecnologias y Metodologias
 
-• C#
-• ASPNET Core
-• Blazor - Razor
-• JavaScript
-• HTML y CSS
+• C# 
+• ASPNET Core 
+• Blazor - Razor 
+• JavaScript 
+• HTML y CSS 
+
 • Sql Server - MySQL
 • Control de versiones: Git, GitHub
 • Scrum
