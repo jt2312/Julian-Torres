@@ -13,7 +13,7 @@ Hola soy Julian, un software Developer en constante aprendizaje. Tengo un gran e
 • JavaScript 
 • HTML y CSS 
 
-• Sql Server - MySQL
+• SQL Server - MySQL
 • Control de versiones: Git, GitHub
 • Scrum
 
