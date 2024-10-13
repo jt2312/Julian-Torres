@@ -18,8 +18,11 @@ Hola soy Julian, un software Developer en constante aprendizaje. Tengo un gran e
 
 ## Proyectos Destacados
 ➢ Aplicacion TurnosReady! - Proyecto personal de la Tecnicatura.
+
 ➢ Aplicacion Budget.io - Proyecto MVP Final Tecnicatura
+
 ➢ Proyecto Ecommerce - Shoppclick!
+
 ➢ Simulacion No country! - Patitas
 
 ## Contacto
